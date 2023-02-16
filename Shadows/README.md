@@ -13,3 +13,4 @@
 - displacing points based on gui scroller
 - blending point colour between two textures upon mouse wheel
 - pixel storm effect that creates pixel chaos upon mouse position and click
+- demo - https://youtu.be/VveAJplm_UU
